@@ -53,7 +53,7 @@ A motor cannot be driven directly from Arduino GPIO. Use a properly rated switch
 Use **Python 3.11** and a **dedicated virtual environment**, especially if a separate MediaPipe project is installed; TensorFlow and MediaPipe have had incompatible `protobuf` requirements.
 
 ```powershell
-cd Skin-Lesion-AI-Screening-GitHub
+cd Skin-Cancer-Screening-Instrument-GitHub
 py -3.11 -m venv .venv
 .venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
