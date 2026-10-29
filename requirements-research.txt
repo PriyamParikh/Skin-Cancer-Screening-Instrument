@@ -1,0 +1,5 @@
+-r requirements-runtime.txt
+matplotlib>=3.8,<4
+pandas>=2.1,<3
+shap>=0.45,<0.51
+scipy>=1.11,<2

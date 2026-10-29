@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+*.log
+results/
+artifacts/
+data/train/
+data/test/
+data/validation/
+models/*.pkl
+models/*.keras
+models/*.h5
+models/*metadata.json
+*.zip
